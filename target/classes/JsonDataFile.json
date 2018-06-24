@@ -1,0 +1,18 @@
+{
+	"org": [
+		{
+			"email": "f128@yahu.com",
+			"password": "123456",
+			"orgname": "CStockLtd",
+			"displayname": "C Stock Broker Ltd",
+			"orgtype": "Organisation"
+		},
+		{
+			"email": "f127@yahu.com",
+			"password": "123456",
+			"orgname": "IStockLtd",
+			"displayname": "I Stock Broker Ltd",
+			"orgtype": "Organisation"
+		}
+	]
+}
