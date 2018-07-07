@@ -1,0 +1,17 @@
+{
+"product": 	[
+{
+"productcode": "P55225",
+"productname": "Profit Calls",
+"description": "New product to publish equity market calls.",
+"marketprice": "299",
+"channel": ["email","pushnotification"],
+"batchmapping" : {"regno": "123456","patentno": "N-1214"}
+}]
+}
+
+
+	
+
+
+
