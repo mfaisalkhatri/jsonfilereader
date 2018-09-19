@@ -4,10 +4,11 @@
 
 **Getting Started**
 
-This wiki includes all the information you need to get started including setup, usage, advantages, sample test.
+This page includes all the information you need to get started including setup, usage, advantages, sample test.
 
 **What to do when you need help?**
-* Discuss your queries by writing to us on our mailing list
+* Discuss your queries by writing to me at: 
+* Mail: @mohammadfaisalkhatri@gmail.com, Twitter: @mfaisal_khatri, LinkedIn: Mohammad Faisal Khatri 
 * If you find any issue which is bottleneck for you, search the issue tracker to see if it is already raised.
 * If not raised, then you can create a new issue with required details as mentioned in the issue template.
 
@@ -21,8 +22,8 @@ This wiki includes all the information you need to get started including setup, 
 
 **This project highlights the following problems I encountered while reading json file using java:**
 
-A. Reading the data from the array of json file. 
-B. Reading array within array from the json file.
+*A. Reading the data from the array of json file. 
+*B. Reading array within array from the json file.
 
 **These examples have been developed using Java, Gson dependency to read json file.**
 **The following are the steps I have followed for creating this example project:**
