@@ -20,6 +20,7 @@ This wiki includes all the information you need to get started including setup, 
 **Examples and How to Use**
 
 **This project highlights the following problems I encountered while reading json file using java:**
+
 A. Reading the data from the array of json file. 
 B. Reading array within array from the json file.
 
@@ -29,7 +30,7 @@ B. Reading array within array from the json file.
 A. Json File - Reading the data from the array of json file. 
 The following is the json file :
 ```
-_{
+{
 	"org": [
 		{
 			"email": "f128@yahu.com",
@@ -46,7 +47,7 @@ _{
 			"orgtype": "Organisation"
 		}
 	]
-}_
+}
 ```
 **Here, "org" is an array which has multiple fields. If we need to read the values using testng data provider, following is the step:**
 
@@ -94,7 +95,7 @@ As
 **B. Likewise, in case if there is array within array in the json file.**
 E.g. Json file - (Check "Channel" and "batchmapping" fields in the below snippet)
 ```
-_{
+{
 "product": 	[
 {
 "productcode": "P55225",
@@ -104,7 +105,7 @@ _{
 "channel": ["email","pushnotification"],
 "batchmapping" : {"regno": "123456","patentno": "N-1214"}
 }]
-}_
+}
 ```
 01. For array having new fields- While creating the gettersetter initiliaze a new class for the array fields:  
 02. For array with values only, using String array[] to get values from the file.  
