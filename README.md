@@ -8,7 +8,10 @@ This page includes all the information you need to get started including setup, 
 
 **What to do when you need help?**
 * Discuss your queries by writing to me at: 
-* Mail: @mohammadfaisalkhatri@gmail.com, Twitter: @mfaisal_khatri, LinkedIn: Mohammad Faisal Khatri 
+* Mail: mohammadfaisalkhatri@gmail.com 
+* Twitter: @mfaisal_khatri, 
+* LinkedIn: Mohammad Faisal Khatri
+*
 * If you find any issue which is bottleneck for you, search the issue tracker to see if it is already raised.
 * If not raised, then you can create a new issue with required details as mentioned in the issue template.
 
