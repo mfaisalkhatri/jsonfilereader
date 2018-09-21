@@ -1,5 +1,6 @@
 *.class
 *.jpeg
 *.jpg
+*.project
 test-output/
 target/
