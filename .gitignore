@@ -1,1 +1,5 @@
-/target/
+*.class
+*.jpeg
+*.jpg
+test-output/
+target/
