@@ -6,7 +6,7 @@ public class TestDataProductMaster {
 	private String productname;
 	private String description;
 	private String marketprice;
-	private String channel[];
+	private String[] channel;
 	private BatchMappingData batchmapping;
 
 	public String getProductcode() {
